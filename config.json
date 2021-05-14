@@ -1,0 +1,10 @@
+{
+  "params": {
+    "date" : "",
+    "email": "youremail@example.com",
+    "password": "",
+    "upload" : "complete_location_here",
+    "body_of_email" : ""
+    
+  }
+}

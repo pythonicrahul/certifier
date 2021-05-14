@@ -1,0 +1,33 @@
+<!DOCTYPE HTML5>
+<HTML>
+<HEAD>
+    <TITLE>
+        CERTIFICATE
+    </TITLE>
+    <link rel="stylesheet" href="{{ url_for('static',filename='style.css')}}">
+</HEAD>
+<BODY>
+    <h1 style="margin:20px">3 Steps to Generate and Mail Certificate to the Students</h1>
+    <ol type="1">
+        <li>
+            <h4>Upload the Excel File.</h4>
+        </li>
+        <li>
+            <h4>Generate the Certificate.</h4>
+        </li>
+        <li>
+            <h4>Mail the certificates.</h4>
+        </li>
+    </ol>
+    <form id="upload" method="post" action="" enctype="multipart/form-data">
+            <div id="drop">
+                <input type="file" name="upl" >
+                <br>
+                <br>
+                <button>Upload</button>
+            </div>
+    </form>
+</BODY>
+</HTML>
+
+
