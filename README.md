@@ -12,6 +12,6 @@ Step 1 : Upadte config.json
 Step 2 : Give axis as per your certificate  (you can get in by using ms-paint)
 Step 3 : Add Excel file (Columns : Sno 	| Name |	Year |	Branch	| Event	| position | 	email )
 
-![alt text](https://www.mediafire.com/view/8rkyeyldcheax38/certifier.png)
+![alt text](https://www.mediafire.com/view/8rkyeyldcheax38/certifier.png/file)
 
 Step 4 : Enjoy :)
