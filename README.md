@@ -1,5 +1,7 @@
-# certifier
+# Certifier
 Just give a excel file having defined columns and get certificate delivered to participants
+
+
 Hello Guys,
 
 This project will help you to send certificate using Python.
